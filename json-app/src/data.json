@@ -1,0 +1,19 @@
+{
+	"products":[
+		{
+			"id":1,
+			"name":"Apples",
+			"price":55
+		},
+		{
+			"id":2,
+			"name":"Grapes",
+			"price":535
+		},
+		{
+			"id":3,
+			"name":"FineApple",
+			"price":240
+		}
+	]
+}
